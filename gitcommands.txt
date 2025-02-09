@@ -1,0 +1,3 @@
+commands used in terminal
+--git status --  check the current status of the repository
+--git add <filename>  --to add the newly created file 

@@ -1,0 +1,10 @@
+Github definition
+--version control system
+--have multiple versions for eg: today whatsapp version is 12.5 and tomorrow with new updates they are releasing new updates... similarly today we have 1 code and tomorrow i can modify/ update the code. that is next version...these can be doen using git hub. 
+-- it helps to track the code changes... history codes
+--used to collaborate on code.. eg: under one repository many people can work together on same code 
+
+Github is a web based git reporsitory hosting services
+* git is the backbone in that we have Github
+* we have many alternatives for Github like Bitbucket, Gitbucket etc...
+* but most companies use Github widely 

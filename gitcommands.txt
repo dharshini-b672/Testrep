@@ -1,3 +1,12 @@
-commands used in terminal
+commands used in vs code terminal --this is from vscode to github
+--git clone <repository link>-- to clone or open a repository in the VS code...
 --git status --  check the current status of the repository
 --git add <filename>  --to add the newly created file 
+--git commit -m <filename> -- to commit the changes done in the file
+--git push origin main-- (origin-- means repository link, main - means branch name 'main branch') --to push the changes to the repository
+
+
+create a new file/ or do any updates to existing file-->add-->commit the change-->push to the origin
+
+commands used in vs code terminal --this is from github to vscode
+--git pull --changes done in github will be updated in vs code

@@ -10,3 +10,9 @@ create a new file/ or do any updates to existing file-->add-->commit the change-
 
 commands used in vs code terminal --this is from github to vscode
 --git pull --changes done in github will be updated in vs code
+
+cd -- change directory
+--cd.. -- means go back to the directory... suppose if we are inside folder 1-->file1... when we use this command it will go back to folder 1 in terminal
+eg:Users\hp\desktop\github\testfile will change to Users\hp\desktop\github
+--cd filename2 -- will go to second file
+Users\hp\desktop\github\testfile2

@@ -16,3 +16,12 @@ cd -- change directory
 eg:Users\hp\desktop\github\testfile will change to Users\hp\desktop\github
 --cd filename2 -- will go to second file
 Users\hp\desktop\github\testfile2
+
+
+--git branch -- used to check the branch name of the file
+--git branch -m main -- changes the branch to main
+--git branch -a -- list down the list of branches present in that repository
+--git checkout <filename> -- to sitch the branch
+
+main-- is a local branch.
+remotes/origin/main-- is a remote branch (from the origin remote).

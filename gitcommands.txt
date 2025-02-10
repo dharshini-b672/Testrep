@@ -1,5 +1,5 @@
 commands used in vs code terminal --this is from vscode to github
---git clone <repository link>-- to clone or open a repository in the VS code...
+--git clone <repository link>-- to clone or open a repository in the VS code... or can be directly downloaded from the git as zip file and open in vs code
 --git status --  check the current status of the repository
 --git add <filename>  --to add the newly created file 
 --git commit -m <filename> -- to commit the changes done in the file

@@ -25,3 +25,6 @@ Users\hp\desktop\github\testfile2
 
 main-- is a local branch.
 remotes/origin/main-- is a remote branch (from the origin remote).
+
+--git merge <branchname> --to merge the branches
+--git diff <branchname> --to find the difference between the branches

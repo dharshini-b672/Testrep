@@ -21,7 +21,7 @@ Users\hp\desktop\github\testfile2
 --git branch -- used to check the branch name of the file
 --git branch -m main -- changes the branch to main
 --git branch -a -- list down the list of branches present in that repository
---git checkout <filename> -- to sitch the branch
+--git checkout <filename> -- to switch the branch
 
 main-- is a local branch.
 remotes/origin/main-- is a remote branch (from the origin remote).

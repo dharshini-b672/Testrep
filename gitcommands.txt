@@ -26,5 +26,12 @@ Users\hp\desktop\github\testfile2
 main-- is a local branch.
 remotes/origin/main-- is a remote branch (from the origin remote).
 
+to merge 
 --git merge <branchname> --to merge the branches
 --git diff <branchname> --to find the difference between the branches
+--git push origin <branchname>
+
+on creating a new branch in git we should use git pull to get it reflected in vscode
+
+to create new branch in vs code 
+--git branch <branchname>
